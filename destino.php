@@ -1,12 +1,12 @@
 <?php
 if (strlen($_POST['mensaje'])> 5) 
 {
-	include "mayorAcinco.html";
-	echo "hago algo";
+	include "mayorAcinco.php";
+	//echo "hago algo";
 }
 else
 {
-	include "menorAcinco.html";
-	echo "no hago nada";
+	include "menorAcinco.php";
+	//echo "no hago nada";
 }
 ?>
