@@ -6,6 +6,8 @@
 </HEAD>
 
 <BODY>
+<link rel="stylesheet" type="text/css" href="estilo.css">
+		<link rel="stylesheet" type="text/css" href="animacion.css">
 
 <form method = "POST" action = "destino.php"> 
 <input type = "text" name = "mensaje" >
